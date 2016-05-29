@@ -214,7 +214,6 @@ public class V extends javax.swing.JFrame implements Runnable {
         LB1.setVisible(false);
         LB2.setVisible(false);
         LB3.setVisible(false);
-        etapa=1;
         }else if(etapa==2)
             {
             System.out.println("primer process");
